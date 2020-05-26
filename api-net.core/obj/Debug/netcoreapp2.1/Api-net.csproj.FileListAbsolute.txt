@@ -1,0 +1,16 @@
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Api-net.deps.json
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Api-net.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Api-net.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Api-net.dll
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Api-net.pdb
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.RazorAssemblyInfo.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.RazorAssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.dll
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Api-net.pdb
+C:\Users\silve\Desktop\api-net.core-master\obj\Debug\netcoreapp2.1\Api-net.dll
+C:\Users\silve\Desktop\api-net.core-master\obj\Debug\netcoreapp2.1\Api-net.pdb

@@ -1,0 +1,14 @@
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Apinode.deps.json
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Apinode.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Apinode.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Apinode.dll
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.RazorAssemblyInfo.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.RazorAssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo\source\repos\Apinode\Apinode\bin\Debug\netcoreapp2.1\Apinode.pdb
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.dll
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.pdb
+C:\Users\Eduardo\source\repos\Apinode\Apinode\obj\Debug\netcoreapp2.1\Apinode.csprojAssemblyReference.cache
